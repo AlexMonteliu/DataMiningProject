@@ -1,4 +1,4 @@
-# Proyect DataMining
+# DataMining Proyect
 EN: Project carried out for a Data Mining subject in which we analyzed the relationship between the educational level of parents and the percentage of student dropout at the university using Data minining and stadistics techniques.
 
 Chosen dataset: https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention?select=dataset.csv
